@@ -67,7 +67,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <generatePackage>pl.rynski.soapws</generatePackage>
+                    <generatePackage>pl.kosowski.soap_wsdl.soapWsdl</generatePackage>
                     <generateDirectory>${project.basedir}/src/main/java</generateDirectory>
                     <schemaDirectory>${project.basedir}/src/main/resources</schemaDirectory>
                     <schemaIncludes>
